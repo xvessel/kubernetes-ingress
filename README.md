@@ -1,4 +1,4 @@
-## Kubernetes Ingress Controller
+## Kubernetes Nginx Ingress
 
 ### 安装
 
